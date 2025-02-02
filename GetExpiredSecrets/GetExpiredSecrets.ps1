@@ -1,6 +1,6 @@
 <#
 .DESCRIPTION
-    List all expired secrets an certificates for your app regs
+    List all expired secrets and certificates for your app regs
 .AUTHOR
     Odd Arvid Knudsen
 #>
